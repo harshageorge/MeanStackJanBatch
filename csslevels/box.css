@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+
+}
+
+h3{
+    font-family: 'Slabo 27px', serif;
+}
+
+#one{
+
+    width: 100px;
+    border-style: solid;
+    border-color: darkcyan;
+}
+#top{
+    position: relative;
+    left: 20%;
+    /* bottom: 10%; */
+    background-color: brown;
+    border-style: solid;
+    border-color: darkblue;
+    width: 40%;
+    /* margin-left: 40%; */
+    /* padding-left: 5%; */
+
+}
+#bottom{
+    background-color: brown;
+    border-style: solid;
+    border-color: darkblue;
+    width: 40%;
+    margin-top: 30%;
+    margin-left: 40%;
+    
+
+}

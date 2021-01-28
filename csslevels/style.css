@@ -1,0 +1,10 @@
+/* tag/id/class{
+    property:value;
+}*/
+/*external style sheet*/
+body{
+    background-color: rgb(196, 35, 24);
+}
+h1{
+    color:blue;
+}
