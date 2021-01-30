@@ -1,0 +1,49 @@
+h3{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+}
+#first{
+    position: absolute;
+    left: 20%;
+    /* bottom: 10%; */
+    background-color:#2b98ad;
+    
+    /* border-color: darkblue; */
+    width: 10%;
+    height: 70%;
+}
+#second{
+    position: absolute;
+    left: 31%;
+    /* bottom: 10%; */
+    background-color: #34ebab;
+    
+    /* border-color: darkblue; */
+    width: 10%;
+    height: 70%;
+}
+#third{
+    position: absolute;
+    left: 42%;
+    /* bottom: 10%; */
+    background-color: #8bd690;
+    
+    /* border-color: darkblue; */
+    width: 10%;
+    height: 70%;
+}
+#fourth{
+    position: absolute;
+    left: 53%;
+    background-color:#e0ed7b;
+    width: 10%;
+    height: 70%;
+}
+#fifth{
+    position: absolute;
+    left: 64%;
+    background-color:#de1833;
+    width: 10%;
+    height: 70%;
+}
