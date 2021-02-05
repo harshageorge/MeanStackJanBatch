@@ -9,9 +9,9 @@ h3{
     /* bottom: 10%; */
     background-color:#2b98ad;
     
-    /* border-color: darkblue; */
+    /* border-color: darkblue;*/
     width: 10%;
-    height: 70%;
+    height: 70%; 
 }
 #second{
     position: absolute;
@@ -46,4 +46,4 @@ h3{
     background-color:#de1833;
     width: 10%;
     height: 70%;
-}
+} 

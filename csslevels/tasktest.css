@@ -1,0 +1,40 @@
+h3{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+}
+table{
+    border-spacing: 20px; 
+    position: relative;
+    left: 30%;
+}
+.one{
+    
+    width: 70px;
+    height: 300px;
+    background-color:tomato;
+
+}
+.two{
+    
+    width: 70px;
+    height: 300px;
+    background-color:rgb(25, 151, 141);
+    
+    
+}
+.three{
+    width: 70px;
+    height: 300px;
+    background-color:rgb(44, 25, 151);
+}
+.four{
+    width: 70px;
+    height: 300px;
+    background-color:rgb(151, 25, 140);
+}
+.five{
+    width: 70px;
+    height: 300px;
+    background-color:rgb(138, 151, 25);
+}
