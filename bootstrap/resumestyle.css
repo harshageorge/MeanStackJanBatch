@@ -1,28 +1,38 @@
-.first{
-  float: left;
+.col-md-4{
+  background-color: #43e7f0;
 }
+.col-md-8{
+  background-color: #c8eff1;
+}
+.nav-item {
+  margin:0 0 10px 0;   
+}
+
 .container{
   margin-top: 5%;
 }
 #img{
   /* margin-top: 5%; */
-  /* margin-left: 15%; */
-  width:60%;
-  height: 70%;
+   
+  width:45%;
+  height: 90%;
    border-radius:60%;
+   vertical-align: middle;
+   margin:15px 100px
 }
 #name{
   color:rgb(10, 10, 109);
   font-weight: 800;
- text-align: center;
+  text-align: center;
+  margin:0 0 90px 0; 
 }
-.right{
- float: right;
-}
-#contact{ 
+
+.contact{ 
   /* margin-top:100%;  */
-font-weight:500;  
+  /* margin:0 0 10px 0;  */
+font-weight:700;  
  color:rgb(10, 10, 109);
+ text-align: center;
 }
 
 #img2{
